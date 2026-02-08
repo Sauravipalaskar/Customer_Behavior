@@ -24,5 +24,5 @@ Identified trends, patterns, and key insights for decision-making.
 How to Run:
 Clone repository, open notebook, install libraries, and run cells.
 Author:
-Sauravi Palaskar
+Sauravi Palaskar.
 
