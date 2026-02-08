@@ -1,3 +1,6 @@
+# Customer_Behavior
+Data Analytics Project showcasing customer behavior analysis using Python,Sql and Power BI.
+
 DATA ANALYTICS PROJECT
 Overview:
 This project demonstrates an end-to-end data analytics workflow using Python, SQL, and Power BI.
@@ -22,5 +25,4 @@ How to Run:
 Clone repository, open notebook, install libraries, and run cells.
 Author:
 Sauravi Palaskar
-# Customer_Behavior
-Data Analytics Project showcasing customer behavior analysis using Python,Sql and Power BI.
+
